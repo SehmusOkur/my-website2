@@ -1,0 +1,16 @@
+.aselony{
+    width: 125px;
+    height: 125px;
+    border-radius: 100%;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.ban{
+    text-align: center;
+
+}
+.boy{
+    width: auto;
+    height: 150px;
+}
